@@ -1,18 +1,17 @@
 # Keras-Openface-Demo
 A facial recognition demo using the Keras implementation of CMU-OpenFace
 
+## To Run
+* Clone the git repo or download as zip and extract
+* Download the pre-trained model for dlib [http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2], extract and move into './models' folder
+* Open the Jupyter Notebooks
+    
 ## Requirements
 * dlib
 * opencv
 * numpy
 * keras
 * tensorflow
-
-## To Run
-* Clone or the git repo or download as zip and extract
-* Download the pre-trained model for dlib [http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2], unzip and move into './models' folder
-* Open the Jupyter Notebooks
-    
 
 ## References
 * CMU-OpenFace Project [https://github.com/cmusatyalab/openface]
